@@ -1,0 +1,3 @@
+[submodule "PPSGAN"]
+	path = PPSGAN
+	url = https://github.com/tgisaturday/PPSGAN
