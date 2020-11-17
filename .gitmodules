@@ -1,3 +1,6 @@
 [submodule "PPSGAN"]
 	path = PPSGAN
 	url = https://github.com/tgisaturday/PPSGAN
+[submodule "analysis-site"]
+	path = analysis-site
+	url = https://github.com/sogang-mm/analysis-site
